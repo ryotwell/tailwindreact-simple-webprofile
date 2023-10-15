@@ -37,7 +37,7 @@ function App(props) {
                         </div>
                     </div>
                     <div className='mb-4 flex justify-center'>
-                        <a className='bg-gradient-to-r from-blue-600 from-10% to-pink-600 to-90% flex justify-center items-center text-white px-8 py-2.5 text-sm rounded-full' href="https://www.instagram.com/ryoid___" target="_blank" rel="noopener noreferrer">
+                        <a className='bg-gradient-to-r from-blue-600 from-10% to-pink-600 to-90% flex justify-center items-center text-white px-8 py-2.5 text-sm rounded-full' href="https://www.instagram.com/ryotwell" target="_blank" rel="noopener noreferrer">
                             Instagram
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
                                 <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
@@ -46,10 +46,10 @@ function App(props) {
                     </div>
                 </div>
             </div>
-            <div className='flex justify-center items-center pb-10 text-sm text-slate-600'>
-                Build <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5 mx-1">
-  <path strokeLinecap="round" strokeLinejoin="round" d="M15.182 15.182a4.5 4.5 0 01-6.364 0M21 12a9 9 0 11-18 0 9 9 0 0118 0zM9.75 9.75c0 .414-.168.75-.375.75S9 10.164 9 9.75 9.168 9 9.375 9s.375.336.375.75zm-.375 0h.008v.015h-.008V9.75zm5.625 0c0 .414-.168.75-.375.75s-.375-.336-.375-.75.168-.75.375-.75.375.336.375.75zm-.375 0h.008v.015h-.008V9.75z" />
-</svg> By <span className='font-semibold ml-1 text-blue-600'>Ryo ID</span>
+            <div className='flex justify-center items-center pb-10 text-xs text-slate-400'>
+                Build with <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-4 h-4 mx-1 text-red-600">
+  <path d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.752.752 0 01-.704 0l-.003-.001z" />
+</svg> By <a href="ryodev.my.id/" target="_blank" rel="noopener noreferrer"><span className='font-semibold ml-1 text-blue-600'>Ryo Otwell</span></a>
             </div>
         </div>
     );
